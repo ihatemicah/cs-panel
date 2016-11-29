@@ -15,6 +15,11 @@
     font-size: 14px;
     margin-top: 3%;
 }
+
+.navbar-toggle {
+    margin-top:15px;
+}
+
 .dropdown {
     margin-top: 0.5%;
 }

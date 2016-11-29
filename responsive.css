@@ -1,0 +1,7 @@
+/*Just a style sheet for responsive-ness 💅*/
+@media screen and (max-wdith:767px){
+.jumbotron {
+    background-position: left;
+}
+    
+    }
