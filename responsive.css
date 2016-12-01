@@ -1,7 +1,21 @@
-/*Just a style sheet for responsive-ness 💅*/
-@media screen and (max-wdith:767px){
-.jumbotron {
-    background-position: left;
-}
-    
+/*Desktop Responsive  💅*/
+@media screen and (max-width:958px){
+    .jumbotron > h1 {
+        margin-left: 55%;
     }
+    .jumbotron > p {
+        margin-left: 55%;
+    }
+    }
+
+@media screen and (max-device-width: 414px) and (max-device-height: 776px) {
+/*Jumbotron area responsive*/
+    .jumbotron {
+        background-position:28%;
+    }
+    .jumbotron > h1 {
+        margin-top: 15%;
+    }
+/*Jumbotron area done*/
+    
+}
