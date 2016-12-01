@@ -70,9 +70,15 @@
     /*    Flexbox usage*/
     display:flex;
     align-items: center;
-    background-image:url(http://placehold.it/295x300);
+    background-image:url(img/stickers/zendesk.svg);
 }
 .swiper-slide:nth-of-type(2){
+    background-image:url(img/stickers/admin.svg)
+}
+.swiper-slide:nth-of-type(3){
+    background-image:url(http://placehold.it/300x300);
+}
+.swiper-slide:nth-of-type(4){
     background-image:url(http://placehold.it/300x300);
 }
 /*Swiper CSS END*/

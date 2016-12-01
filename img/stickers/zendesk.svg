@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Zendesk</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Zendesk">
+            <g id="zendesk" transform="translate(70.000000, 78.000000)" fill="#1C9AD6">
+                <path d="M73.957494,120.127 L0.754019955,120.127 L73.957494,31.738015 L73.957494,120.127 L73.957494,120.127 Z M159.24598,120.127 L86.042506,120.127 C86.042506,99.8895578 102.406801,83.5153572 122.644243,83.5153572 C142.871779,83.5153572 159.24598,99.9093693 159.24598,120.127 Z M86.042506,88.3988907 L86.042506,0 L159.24598,0 L86.042506,88.3988907 Z M73.957494,0 C73.957494,20.2077249 57.5733876,36.6116428 37.355757,36.6116428 C17.1480321,36.6215485 0.754019955,20.2275364 0.754019955,0.00990574751 L73.957494,0.00990574751 L73.957494,0 Z" id="Shape"></path>
+            </g>
+            <text font-family="Equip-Medium, Equip" font-size="38" font-weight="400" fill="#535556">
+                <tspan x="74.057" y="272">Zendesk</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
